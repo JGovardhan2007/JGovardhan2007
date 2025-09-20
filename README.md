@@ -95,7 +95,7 @@ This repository is licensed under the **MIT License**.
 ## 📬 Connect With Me
 
 - 👨‍💻 GitHub: [@Govardhan](https://github.com/)  
-- 🌐 Linkedin: *(https://www.linkedin.com/in/govardhan-jyosula/)*  
+- 🌐 Linkedin: *https://www.linkedin.com/in/govardhan-jyosula/*  
 - ✉️ Email: *jyosula.vignan@gmail.com*  
 
 ---
